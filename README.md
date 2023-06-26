@@ -9,7 +9,7 @@
 </p>
 
 
-![demo]()
+![demo](https://github.com/STORM992002/yingzi-vscode/blob/master/ying.jpeg)
 
 ## Installation via VS Code
 
