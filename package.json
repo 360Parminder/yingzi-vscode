@@ -1,0 +1,35 @@
+{
+  "name": "ying-dark",
+  "displayName": "ying",
+  "description": "new color theme",
+  "version": "2.0.0",
+  "publisher": "parmindersingh",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STORM992002/ying"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "coder coder",
+    "html css",
+    "storm992002",
+    "ying",
+    "purple dark"
+  ],
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ying",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ying-color-theme.json"
+      }
+    ]
+  }
+}
