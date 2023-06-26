@@ -77,4 +77,4 @@ vsce publish patch/minor/major
 
 ## Shameless Plug
 
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+Yingzi is also available for [Sublime Text, Atom, iTerm, and more!](https://yingzi.netlify.com/).
