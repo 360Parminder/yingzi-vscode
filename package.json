@@ -1,12 +1,12 @@
 {
   "name": "ying-dark",
-  "displayName": "ying",
-  "description": "new color theme",
-  "version": "2.0.0",
+  "displayName": "yingzi",
+  "description": "Immerse yourself in a sleek coding environment with deep purple and black tones. This theme offers high-contrast syntax highlighting, reducing eye strain and enhancing focus, perfect for late-night coding sessions",
+  "version": "3.0.1",
   "publisher": "parmindersingh",
   "repository": {
     "type": "git",
-    "url": "https://github.com/STORM992002/ying"
+    "url": "https://github.com/360Parminder/yingzi"
   },
   "keywords": [
     "theme",
